@@ -1,0 +1,15 @@
+addExchange 0 1
+addExchange 0 2
+addExchange 1 4
+addExchange 2 5
+switchOnMobile 989 5
+addExchange 1 6
+addExchange 2 7 
+addExchange 2 8
+addExchange 8 9 
+addExchange 9 10
+lowestRouter 1 8
+lowestRouter 7 10
+switchOnMobile 800 10
+queryMobilePhoneSet 0
+findCallPath 989 800
